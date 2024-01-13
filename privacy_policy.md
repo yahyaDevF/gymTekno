@@ -3,7 +3,7 @@
 
 **Teckno Gym Privacy Policy**
 
-*Last Updated: [Date]*
+*Last Updated: [13.01.2024]*
 
 **1. Introduction**
 
