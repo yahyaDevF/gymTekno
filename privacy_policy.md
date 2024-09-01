@@ -3,7 +3,7 @@
 
 **TechValley Gym Privacy Policy**
 
-*Last Updated: [13.01.2024]*
+*Last Updated: [1.09.2024]*
 
 **1. Introduction**
 
