@@ -1,13 +1,13 @@
 # Privacy Policy
 
 
-**Teckno Gym Privacy Policy**
+**TechValley Gym Privacy Policy**
 
 *Last Updated: [13.01.2024]*
 
 **1. Introduction**
 
-Welcome to Teckno Gym! Teckno Gym ("the App") is a note-taking application developed by [Tec Valley] ("we," "us," or "our"). This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our app.
+Welcome to TechValley Gym! TechValley Gym ("the App") is a note-taking application developed by [Tec Valley] ("we," "us," or "our"). This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our app.
 
 **2. Information We Collect**
 
